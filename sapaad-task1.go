@@ -1,3 +1,4 @@
+//Print first name if the number is even else print second name
 package main
 
 import "fmt"
